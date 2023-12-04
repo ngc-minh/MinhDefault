@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nguyen ngoc minh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen ngoc minh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011042508479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nguyễn Ngọc Minh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
